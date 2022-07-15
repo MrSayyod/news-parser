@@ -32,16 +32,10 @@ This application is designed to be run locally on the Rails development server w
 
 Prerequisites
 Application must be developed and tested with the following components:
-Rails (>= 5.0)
-Ruby (>= 2.2)
-PostgreSQL (>= 9.1)
-React JS (>= 16.8)
-
-
-
-
-
-
+- Rails (>= 5.0)
+- Ruby (>= 2.2)
+- PostgreSQL (>= 9.1)
+- React JS (>= 16.8)
 
 ## Built With
 
